@@ -13,4 +13,8 @@ console.log(arr2[0])
 
 arr[4] = 10;
 
+arr[0] = 'Teste'
+
 console.log(arr)
+
+console.log(typeof arr)
